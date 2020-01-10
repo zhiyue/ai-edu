@@ -1,6 +1,7 @@
-﻿# AI-神经网络基本原理简明教程目录
-Copyright © Microsoft Corporation. All rights reserved.
-适用于[License](https://github.com/Microsoft/ai-edu/blob/master/LICENSE.md)版权许可
+﻿<!--Copyright © Microsoft Corporation. All rights reserved.
+  适用于[License](https://github.com/Microsoft/ai-edu/blob/master/LICENSE.md)版权许可-->
+
+# AI-神经网络基本原理简明教程目录
 
 ## 如何浏览本系列教程
 
@@ -19,8 +20,8 @@ Copyright © Microsoft Corporation. All rights reserved.
 对于这份教程的内容，如果没有额外的说明，我们通常使用如下表格的命名约定：
 
 | 符号 | 含义|
-|:------------:|-------------|
-|X|输入样本 |
+|:---:|---|
+|X|输入样本|
 |Y|输入样本的标签 |
 |Z|线性运算的结果|
 |A|激活函数/结果|
@@ -30,7 +31,7 @@ Copyright © Microsoft Corporation. All rights reserved.
 |大写字母|矩阵或矢量，如A,W,B|
 |小写字母|变量，标量，如a,w,b|
 |$x_{1,2}$|第1个样本的第2个特征值|
-|$w^L_{2,3}$|第L层第2个神经元对第L-1层第3个神经元的权重值
+|$w^L_{2,3}$|第L层第2个神经元对第L-1层第3个神经元的权重值|
 |矩阵的行|一批样本的某一个特征值的集合|
 |矩阵的列|一批样本的某一个样本的所有特征值|
 
@@ -71,4 +72,7 @@ Copyright © Microsoft Corporation. All rights reserved.
 |多入<br>多出<br>两层|<img src="./Images/11/nn.png"/>|非线性多分类|
 |多入<br>多出<br>三层|<img src="./Images/12/nn3.png"/>|非线性多分类|
 
+## 写在后面
 
+加星点赞是一种良好的Open Source的程序员素养，作者的目标是得到10000颗星！星越多，我们的创作团队越努力！
+送人玫瑰，手有余香，传播给你的朋友，让大家一起进步！
